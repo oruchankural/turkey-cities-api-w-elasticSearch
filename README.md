@@ -2,7 +2,8 @@
 Turkey-Cities-Api
 
 --------------------------------------
-This API presents the names, regions and population numbers of 81 provinces in Turkey.
+This API presents the names, regions and population numbers of 81 cities in Turkey.
 
-
-https://github.com/oruchankural/Elastic-Cities-Api
+This api is used for the Elasic-Cities-Api available in my repositories.
+  > Related API repo ; 
+  https://github.com/oruchankural/Elastic-Cities-Api
