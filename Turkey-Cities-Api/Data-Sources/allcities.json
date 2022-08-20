@@ -1,0 +1,488 @@
+﻿[
+  {
+    "id": 1,
+    "city": "Adana",
+    "population": 2183167,
+    "region": "Akdeniz"
+  },
+  {
+    "id": 2,
+    "city": "Adıyaman",
+    "population": 602774,
+    "region": "Güneydoğu Anadolu"
+  },
+  {
+    "id": 3,
+    "city": "Afyonkarahisar",
+    "population": 709015,
+    "region": "Ege"
+  },
+  {
+    "id": 4,
+    "city": "Ağrı",
+    "population": 547210,
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 5,
+    "city": "Amasya",
+    "population": 322167,
+    "region": "Karadeniz"
+  },
+  {
+    "id": 6,
+    "city": "Ankara",
+    "population": 5270575,
+    "region": "İç Anadolu"
+  },
+  {
+    "id": 7,
+    "city": "Antalya",
+    "population": 2288456,
+    "region": "Akdeniz"
+  },
+  {
+    "id": 8,
+    "city": "Artvin",
+    "population": 168370,
+    "region": "Karadeniz"
+  },
+  {
+    "id": 9,
+    "city": "Aydın",
+    "population": 1053506,
+    "region": "Ege"
+  },
+  {
+    "id": 10,
+    "city": "Balıkesir",
+    "population": 1186688,
+    "region": "Marmara"
+  },
+  {
+    "id": 11,
+    "city": "Bilecik",
+    "population": 212361,
+    "region": "Marmara"
+  },
+  {
+    "id": 12,
+    "city": "Bingöl",
+    "population": 267184,
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 13,
+    "city": "Bitlis",
+    "population": 267184,
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 14,
+    "city": "Bolu",
+    "population": 291095,
+    "region": "Karadeniz"
+  },
+  {
+    "id": 15,
+    "city": "Burdur",
+    "population": 258339,
+    "region": "Akdeniz"
+  },
+  {
+    "id": 16,
+    "city": "Bursa",
+    "population": 2842547,
+    "region": "Marmara"
+  },
+  {
+    "id": 17,
+    "city": "Çanakkale",
+    "population": 513341,
+    "region": "Marmara"
+  },
+  {
+    "id": 18,
+    "city": "Çankırı",
+    "population": 180945,
+    "region": "İç Anadolu"
+  },
+  {
+    "id": 19,
+    "city": "Çorum",
+    "population": 525180,
+    "region": "Karadeniz"
+  },
+  {
+    "id": 20,
+    "city": "Denizli",
+    "population": 993442,
+    "region": "Ege"
+  },
+  {
+    "id": 21,
+    "city": "Diyarbakır",
+    "population": 1654196,
+    "region": "Güneydoğu Anadolu"
+  },
+  {
+    "id": 22,
+    "city": "Edirne",
+    "population": 402537,
+    "region": "Marmara"
+  },
+  {
+    "id": 23,
+    "city": "Elâzığ",
+    "population": 574304,
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 24,
+    "city": "Erzincan",
+    "population": 222918,
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 25,
+    "city": "Erzurum",
+    "population": 762321,
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 26,
+    "city": "Eskişehir",
+    "population": 826716,
+    "region": "İç Anadolu"
+  },
+  {
+    "id": 27,
+    "city": "Gaziantep",
+    "population": 1931836,
+    "region": "Güneydoğu Anadolu"
+  },
+  {
+    "id": 28,
+    "city": "Giresun",
+    "population": 426686,
+    "region": "Karadeniz"
+  },
+  {
+    "id": 29,
+    "city": "Gümüşhane",
+    "population": 151449,
+    "region": "Karadeniz"
+  },
+  {
+    "id": 30,
+    "city": "Hakkâri",
+    "population": 278775,
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 31,
+    "city": "Hatay",
+    "population": 1533507,
+    "region": "Akdeniz"
+  },
+  {
+    "id": 32,
+    "city": "Isparta",
+    "population": 421766,
+    "region": "Akdeniz"
+  },
+  {
+    "id": 33,
+    "city": "Mersin",
+    "population": 1745221,
+    "region": "Akdeniz"
+  },
+  {
+    "id": 34,
+    "city": "İstanbul",
+    "population": 14657434,
+    "region": "Marmara"
+  },
+  {
+    "id": 35,
+    "city": "İzmir",
+    "population": 4168415,
+    "region": "Ege"
+  },
+  {
+    "id": 36,
+    "city": "Kars",
+    "population": 292660,
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 37,
+    "city": "Kastamonu",
+    "population": 372633,
+    "region": "Karadeniz"
+  },
+  {
+    "id": 38,
+    "city": "Kayseri",
+    "population": 1341056,
+    "region": "İç Anadolu"
+  },
+  {
+    "id": 39,
+    "city": "Kırklareli",
+    "population": 346973,
+    "region": "Marmara"
+  },
+  {
+    "id": 40,
+    "city": "Kırşehir",
+    "population": 225562,
+    "region": "İç Anadolu"
+  },
+  {
+    "id": 41,
+    "city": "Kocaeli",
+    "population": 1780055,
+    "region": "Marmara"
+  },
+  {
+    "id": 42,
+    "city": "Konya",
+    "population": 2130544,
+    "region": "İç Anadolu"
+  },
+  {
+    "id": 43,
+    "city": "Kütahya",
+    "population": 571463,
+    "region": "Ege"
+  },
+  {
+    "id": 44,
+    "city": "Malatya",
+    "population": 772904,
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 45,
+    "city": "Manisa",
+    "population": 1380366,
+    "region": "Ege"
+  },
+  {
+    "id": 46,
+    "city": "Kahramanmaraş",
+    "population": 1096610,
+    "region": "Akdeniz"
+  },
+  {
+    "id": 47,
+    "city": "Mardin",
+    "population": 796591,
+    "region": "Güneydoğu Anadolu"
+  },
+  {
+    "id": 48,
+    "city": "Muğla",
+    "population": 908877,
+    "region": "Ege"
+  },
+  {
+    "id": 49,
+    "city": "Muş",
+    "population": 408728,
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 50,
+    "city": "Nevşehir",
+    "population": 286767,
+    "region": "İç Anadolu"
+  },
+  {
+    "id": 51,
+    "city": "Niğde",
+    "population": 346114,
+    "region": "İç Anadolu"
+  },
+  {
+    "id": 52,
+    "city": "Ordu",
+    "population": 728949,
+    "region": "Karadeniz"
+  },
+  {
+    "id": 53,
+    "city": "Rize",
+    "population": 328979,
+    "region": "Karadeniz"
+  },
+  {
+    "id": 54,
+    "city": "Sakarya",
+    "population": 953181,
+    "region": "Marmara"
+  },
+  {
+    "id": 55,
+    "city": "Samsun",
+    "population": 1279884,
+    "region": "Karadeniz"
+  },
+  {
+    "id": 56,
+    "city": "Siirt",
+    "population": 320351,
+    "region": "Güneydoğu Anadolu"
+  },
+  {
+    "id": 57,
+    "city": "Sinop",
+    "population": 204133,
+    "region": "Karadeniz"
+  },
+  {
+    "id": 58,
+    "city": "Sivas",
+    "population": 618617,
+    "region": "İç Anadolu"
+  },
+  {
+    "id": 59,
+    "city": "Tekirdağ",
+    "population": 937910,
+    "region": "Marmara"
+  },
+  {
+    "id": 60,
+    "city": "Tokat",
+    "population": 593990,
+    "region": "Karadeniz"
+  },
+  {
+    "id": 61,
+    "city": "Trabzon",
+    "population": 768417,
+    "region": "Karadeniz"
+  },
+  {
+    "id": 62,
+    "city": "Tunceli",
+    "population": 86076,
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 63,
+    "city": "Şanlıurfa",
+    "population": 1892320,
+    "region": "Güneydoğu Anadolu"
+  },
+  {
+    "id": 64,
+    "city": "Uşak",
+    "population": 353048,
+    "region": "Ege"
+  },
+  {
+    "id": 65,
+    "city": "Van",
+    "population": 1096397,
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 66,
+    "city": "Yozgat",
+    "population": 419440,
+    "region": "İç Anadolu"
+  },
+  {
+    "id": 67,
+    "city": "Zonguldak",
+    "population": 595907,
+    "region": "Karadeniz"
+  },
+  {
+    "id": 68,
+    "city": "Aksaray",
+    "population": 386514,
+    "region": "İç Anadolu"
+  },
+  {
+    "id": 69,
+    "city": "Bayburt",
+    "population": 78550,
+    "region": "Karadeniz"
+  },
+  {
+    "id": 70,
+    "city": "Karaman",
+    "population": 242196,
+    "region": "İç Anadolu"
+  },
+  {
+    "id": 71,
+    "city": "Kırıkkale",
+    "population": 270271,
+    "region": "İç Anadolu"
+  },
+  {
+    "id": 72,
+    "city": "Batman",
+    "population": 566633,
+    "region": "Güneydoğu Anadolu"
+  },
+  {
+    "id": 73,
+    "city": "Şırnak",
+    "population": 490184,
+    "region": "Güneydoğu Anadolu"
+  },
+  {
+    "id": 74,
+    "city": "Bartın",
+    "population": 190708,
+    "region": "Karadeniz"
+  },
+  {
+    "id": 75,
+    "city": "Ardahan",
+    "population": 99265,
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 76,
+    "city": "Iğdır",
+    "population": 192435,
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 77,
+    "city": "Yalova",
+    "population": 233009,
+    "region": "Marmara"
+  },
+  {
+    "id": 78,
+    "city": "Karabük",
+    "population": 236978,
+    "region": "Karadeniz"
+  },
+  {
+    "id": 79,
+    "city": "Kilis",
+    "population": 130655,
+    "region": "Güneydoğu Anadolu"
+  },
+  {
+    "id": 80,
+    "city": "Osmaniye",
+    "population": 512873,
+    "region": "Akdeniz"
+  },
+  {
+    "id": 81,
+    "city": "Düzce",
+    "population": 360388,
+    "region": "Karadeniz"
+  }
+]
